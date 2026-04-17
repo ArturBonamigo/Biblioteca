@@ -19,12 +19,11 @@ Este é um projeto desenvolvido em C# com o objetivo de simular um sistema de bi
 
 ---
 
-## 💡 Aprendizados
+## 🚀 Tecnologias
+- C#
+- Programação Orientada a Objetos
 
-Durante o desenvolvimento deste projeto, os seguintes tópicos foram aplicados:
+---
 
-- Programação orientada a objetos (POO) em C#
-- Criação e validação de classes (`Livro`, `Leitor`)
-- Manipulação de listas (`List<T>`)
-- Controle de fluxo, tratamento de exceções e entrada de dados via terminal
-- Organização e modularização de código em projetos de console
+## 🎯 Objetivo
+Prática de conceitos de POO, validações e manipulação de dados.
